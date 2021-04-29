@@ -68,7 +68,7 @@
 3. [Шар-зонд](https://airblower.ru/)
 4. [Фал (канат)](http://nearspace.ru/)
 5. [Парашют](http://nearspace.ru/)
-6. [Гелий](https://geliy24.ru/)
+6. Гелий
 7. GoPro 7 Black (+Micro SD card 128GB)
 8. Powerbank x2 (20000 mah)
 9. [RPI Sense Hat](https://www.raspberrypi.org/products/sense-hat/)
